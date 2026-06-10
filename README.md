@@ -37,4 +37,4 @@ Hi! I'm **Karthik Vemula**, a B.Tech CSE student passionate about building Andro
 
 ---
 
-> If you like this repo, feel free to star it and follow my journey.
+> If you like this repo, feel free to star it and follow my journey. Thank You!
