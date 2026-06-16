@@ -26,9 +26,7 @@ Hi! I'm **Karthik Vemula**, a B.Tech CSE student passionate about building Andro
 - Build practical Android apps with clean code
 - Apply what I learn in college and self-study
 - Share my work and learning with others
-
 ---
-
 ## Contact Me
 - 📧 Email: [thekarthikvemula@gmail.com](mailto:thekarthikvemula@gmail.com)
 - 📧 Alternate: [kennyredvemula@gmail.com](mailto:kennyredvemula@gmail.com)
